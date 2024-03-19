@@ -21,8 +21,8 @@ Udržujte Discord profil napořád ONLINE
    - zkopírujte webovou adresu
 12. Přejděte na https://cron-job.org, zaregistrujte se.
 13. Klikněte na: CREATE CRONJOB
-   - title: anything you want
-   - URL: https://anything-you-want.onrender.com
-   - Execution schedule: Every 2 minutes
-   - CREATE
+  - title: anything you wan
+  - URL: https://anything-you-want.onrender.com
+  - Execution schedule: Every 2 minutes
+  - CREATE
 14. Hotovo, váš profil je online na pořád.
