@@ -14,7 +14,7 @@ Udržujte Discord profil napořád ONLINE
 5. Získejte token svého DC účtu:
    - přihlaste se do svého Discordu v prohlížeči a mějte status ONLINE
    - stiskněte: F12 (Google Chrome) -> přejděte na Síť -> klikněte na nějaký dialog/server/kanál na DC
-   - najděte "science" -> přejděte na záhlaví -> najděte: "autorizaci" -> zkopírujte tento token (dlouhý text,směs znaků)
+   - najděte "science" -> přejděte na záhlaví -> najděte: "autorizaci" -> zkopírujte tento token
 6. Create web Service -> počkat až služba dokončí procesy (v logu se zobrazí: Your service is live 🎉)
 7. Vlevo nahoře je link: https://anything-you-want.onrender.com
    - po rozkliknutí se zobrazí: I'm alive (pokud ne, restarujte službu manual Deploy -> Restart service)
